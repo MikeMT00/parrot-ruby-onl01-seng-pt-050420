@@ -1,5 +1,6 @@
 def parrot(name = "Squawk!")
   puts "#{name}"
+  return "Pretty bird!"
 end
 
-parrot = "Pretty bird!"
+
